@@ -6,4 +6,5 @@ package cn.enjoy.model;
 public class Dog {
    private String name;
    private String name2;
+   private String name3;
 }
