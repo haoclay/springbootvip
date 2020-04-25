@@ -6,4 +6,5 @@ package cn.enjoy.model;
 public class Cat {
    private String name;
    private String name2;
+   private String name3;
 }
